@@ -2,7 +2,7 @@
 
 Welcome to the Student Portfolio Website project! This repository contains the code for a personal portfolio website designed for students to showcase their projects, skills, and achievements.
 
-![image](https://github.com/user-attachments/assets/833fa313-b8e9-41d1-aba5-b235858d474f)
+<img width="1874" height="907" alt="image" src="https://github.com/user-attachments/assets/a44905f6-3779-4819-b05d-5d5a1675a4ef" />
 
 
 ## Table of Contents
